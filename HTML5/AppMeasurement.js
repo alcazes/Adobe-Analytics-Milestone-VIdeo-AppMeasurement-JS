@@ -1,6 +1,6 @@
 
 s = new AppMeasurement()
-s.account="edirocksvideo"
+s.account="[REPORT SUITE ID]"
 
 /************************** CONFIG SECTION **************************/
 /* You may add or alter any code config here. */
