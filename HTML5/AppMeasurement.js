@@ -26,8 +26,8 @@ s.doPlugins=s_doPlugins
 
 /* You may add or alter any code config here. */
 s.debugTracking=true
-s.trackingServer="cardgagecorp.112.2o7.net"
-s.visitorNamespace="cardgagecorp"
+s.trackingServer="[TRACKING SERVER]"
+s.visitorNamespace="[NAMESPACE]"
 
 /***** MEDIA MODULE CONFIGURATION FOR MILESTONE TRACKING *****/
 /*
